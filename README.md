@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first website project, I will be applying what I have learnd so far to test my knowledge with html, the termial and VSCode
+This is my first website project, I will be applying what I have learnd so far to test my knowledge with html, the termial and VSCode. In this project, I implemented and html boiler plate, using headings and paragraphs as well as bolding. I also used relative links as absolute links weren't necessary for the requirement of the project. This project also had the use of implementing images. I found this project to be relatively easy to follow and the only part I feel I need more practice on is the git commands. 
